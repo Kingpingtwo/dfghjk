@@ -1,0 +1,64 @@
+.tiktok-button {
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  display: inline-block;
+  padding: 12px 35px;
+  font-size: 24px;
+  border-radius: 10px;
+  font-family: Montserrat;
+  transition: 0.3s;
+}
+.tiktok-button > i {
+  margin: 10px;
+  transition: 0.2s;
+}
+.tiktok-button:hover {
+  background-color: rgb(56, 53, 53);
+}
+.tiktok-button:hover > i {
+  transform: rotate(15deg);
+}
+
+.insta-button {
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  display: inline-block;
+  padding: 12px 35px;
+  font-size: 24px;
+  border-radius: 10px;
+  font-family: Montserrat;
+  transition: 0.3s;
+}
+.insta-button > i {
+  margin: 10px;
+  transition: 0.2s;
+}
+.insta-button:hover {
+  background-color: rgb(56, 53, 53);
+}
+.insta-button:hover > i {
+  transform: rotate(15deg);
+}
+.face-button {
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  display: inline-block;
+  padding: 12px 35px;
+  font-size: 24px;
+  border-radius: 10px;
+  font-family: Montserrat;
+  transition: 0.3s;
+}
+.face-button > i {
+  margin: 10px;
+  transition: 0.2s;
+}
+.face:hover {
+  background-color: rgb(56, 53, 53);
+}
+.face-button:hover > i {
+  transform: rotate(15deg);
+}
